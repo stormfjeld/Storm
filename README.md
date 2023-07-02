@@ -18,4 +18,4 @@ _Switched from GitLab to GitHub - June 2023_
 
 #
 
-[![Storm's GitHub stats](https://github-readme-stats.vercel.app/api?username=stormfjeld)](https://github.com/anuraghazra/github-readme-stats)
+[![Storm's GitHub stats](https://github-readme-stats.vercel.app/api?username=stormfjeld&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
