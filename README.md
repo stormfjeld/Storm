@@ -15,3 +15,7 @@ _Switched from GitLab to GitHub - June 2023_
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Haskell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
 <br />
+
+#
+
+[![Storm's GitHub stats](https://github-readme-stats.vercel.app/api?username=stormfjeld)](https://github.com/anuraghazra/github-readme-stats)
