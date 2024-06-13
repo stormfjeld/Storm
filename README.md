@@ -2,7 +2,7 @@
 <h2 align="center">Info about me:</h2>
 <p align="center">
     <b> Name: </b> Storm <br/><br/>
-    <b> Languages: </b> English, Norwegian and some German <br/><br/>
+    <b> Languages: </b> English, Norwegian, some French and some German <br/><br/>
     <i> Switched from GitLab to GitHub - June 2023 </i> <br/><br/>
 </p>
 
