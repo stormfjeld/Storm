@@ -28,7 +28,7 @@
 <h2 align=center>My Hardware</h2>
 <h3 align=center>Desktop</h4>
   <p align=center>
-    <b>CPU: </b> AMD Ryzen 5 2600 <br/>
+    <b>CPU: </b> AMD Ryzen 5 5600X <br/>
     <b>GPU: </b> MSI GTX 1070 <br/>
     <b>RAM: </b> 16GB 3000MHz <br/>
     Running Arch Linux <br/>
